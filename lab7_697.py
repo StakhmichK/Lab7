@@ -1,5 +1,5 @@
 def reverse_sequence():
-    x = int(input())
+    x = int(input("Enter number: "))
     if x == 0:
         print() 
         print(0)
